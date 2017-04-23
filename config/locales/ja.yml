@@ -1,11 +1,11 @@
 ---
 ja:
   about:
-    about_mastodon: Mastodon は<em>自由でオープンソース</em>なソーシャルネットワークです。商用プラットフォームの代替となる<em>分散型</em>を採用し、あなたのやりとりが一つの会社によって独占されるのを防ぎます。信頼できるインスタンスを選択してください &mdash; どのインスタンスを選んでも、誰とでもやりとりすることができます。 だれでも自分の Mastodon インスタンスを作ることができ、シームレスに<em>ソーシャルネットワーク</em>に参加できます。
+    about_mastodon: Vaticanは、kirinsan.orgの唯一神であらせられるヤヤネ法王を奉る極めて封建的なインスタンスです。
     about_this: このインスタンスについて
     apps: アプリ
     business_email: 'ビジネスメールアドレス:'
-    closed_registrations: 現在このインスタンスでの新規登録は受け付けていません。
+    closed_registrations: 現在このインスタンスでのコンクラーベは行われておりません。
     contact: 連絡先
     description_headline: "%{domain} とは？"
     domain_count_after: 個のインスタンス
@@ -41,7 +41,7 @@ ja:
     unfollow: フォロー解除
   admin:
     accounts:
-      are_you_sure: 本当に実行しますか?
+      are_you_sure: 本当にやっちまいますか?
       display_name: 表示名
       domain: ドメイン
       edit: 編集
