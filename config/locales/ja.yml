@@ -1,11 +1,11 @@
 ---
 ja:
   about:
-    about_mastodon: Vaticanは、kirinsan.orgの閉鎖的インスタンスです。そう、象じゃだめなんだ。僕たちは、ヤヤネ神のもとに集う使者。そして、ここはそのための地です。
+    about_mastodon: Vaticanは、kirinsan.orgの唯一神であらせられるヤヤネ法王を奉る極めて封建的なインスタンスです。
     about_this: このインスタンスについて
     apps: アプリ
     business_email: 'ビジネスメールアドレス:'
-    closed_registrations: 現在このインスタンスでコンクラーベは行われておりません。
+    closed_registrations: 現在このインスタンスでのコンクラーベは行われておりません。
     contact: 連絡先
     description_headline: "%{domain} とは？"
     domain_count_after: 個のインスタンス
@@ -41,7 +41,7 @@ ja:
     unfollow: フォロー解除
   admin:
     accounts:
-      are_you_sure: 本当に実行しますか?
+      are_you_sure: 本当にやっちまいますか?
       display_name: 表示名
       domain: ドメイン
       edit: 編集
