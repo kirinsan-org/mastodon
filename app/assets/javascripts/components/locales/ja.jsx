@@ -1,5 +1,5 @@
 const ja = {
-  "account.block": "殺す",
+  "account.block": "殺す(ブロック)",
   "account.disclaimer": "このユーザーは他のインスタンスに所属しているため、数字が正確で無い場合があります。",
   "account.edit_profile": "プロフィールを編集",
   "account.follow": "フォロー",
@@ -7,9 +7,9 @@ const ja = {
   "account.follows": "フォロー",
   "account.follows_you": "フォローされています",
   "account.mention": "やり返す",
-  "account.mute": "殺す",
+  "account.mute": "殺す(ミュート)",
   "account.posts": "投稿",
-  "account.report": "SATUGAI",
+  "account.report": "SATUGAI(通報)",
   "account.requested": "承認待ち",
   "account.unblock": "生き返す",
   "account.unfollow": "フォロー解除",
